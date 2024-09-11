@@ -1,0 +1,12 @@
+# ignore maven build folder
+target/
+
+# pom-derived eclipse jdt files
+.project
+.classpath
+org.eclipse.*.prefs
+
+**/.DS_Store
+scores.txt
+PacMan/
+bin/
